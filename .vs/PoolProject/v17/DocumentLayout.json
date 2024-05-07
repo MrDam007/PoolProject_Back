@@ -1,36 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\c#project\\PoolProject\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{20E015CA-ED4C-44B9-BB64-19EED7A34979}|PoolProject\\PoolProject.csproj|e:\\c#project\\poolproject\\poolproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{20E015CA-ED4C-44B9-BB64-19EED7A34979}|PoolProject\\PoolProject.csproj|solutionrelative:poolproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B46A847-C849-4873-B3F8-E61CCAC6BCAA}|PoolProject.Data\\PoolProject.Data.csproj|E:\\c#project\\PoolProject\\poolproject.data\\data\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B46A847-C849-4873-B3F8-E61CCAC6BCAA}|PoolProject.Data\\PoolProject.Data.csproj|solutionrelative:poolproject.data\\data\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B46A847-C849-4873-B3F8-E61CCAC6BCAA}|PoolProject.Data\\PoolProject.Data.csproj|E:\\c#project\\PoolProject\\poolproject.data\\data\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B46A847-C849-4873-B3F8-E61CCAC6BCAA}|PoolProject.Data\\PoolProject.Data.csproj|solutionrelative:poolproject.data\\data\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B46A847-C849-4873-B3F8-E61CCAC6BCAA}|PoolProject.Data\\PoolProject.Data.csproj|E:\\c#project\\PoolProject\\poolproject.data\\data\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B46A847-C849-4873-B3F8-E61CCAC6BCAA}|PoolProject.Data\\PoolProject.Data.csproj|solutionrelative:poolproject.data\\data\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B46A847-C849-4873-B3F8-E61CCAC6BCAA}|PoolProject.Data\\PoolProject.Data.csproj|E:\\c#project\\PoolProject\\poolproject.data\\data\\infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B46A847-C849-4873-B3F8-E61CCAC6BCAA}|PoolProject.Data\\PoolProject.Data.csproj|solutionrelative:poolproject.data\\data\\infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B46A847-C849-4873-B3F8-E61CCAC6BCAA}|PoolProject.Data\\PoolProject.Data.csproj|E:\\c#project\\PoolProject\\poolproject.data\\searchquary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B46A847-C849-4873-B3F8-E61CCAC6BCAA}|PoolProject.Data\\PoolProject.Data.csproj|solutionrelative:poolproject.data\\searchquary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20E015CA-ED4C-44B9-BB64-19EED7A34979}|PoolProject\\PoolProject.csproj|E:\\c#project\\PoolProject\\poolproject\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20E015CA-ED4C-44B9-BB64-19EED7A34979}|PoolProject\\PoolProject.csproj|solutionrelative:poolproject\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -38,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,91 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\c#project\\PoolProject\\PoolProject\\appsettings.json",
-              "RelativeDocumentMoniker": "PoolProject\\appsettings.json",
-              "ToolTip": "E:\\c#project\\PoolProject\\PoolProject\\appsettings.json",
-              "RelativeToolTip": "PoolProject\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-06T20:22:51.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "E:\\c#project\\PoolProject\\PoolProject.Data\\Data\\Infrastructure\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "PoolProject.Data\\Data\\Infrastructure\\UnitOfWork.cs",
-              "ToolTip": "E:\\c#project\\PoolProject\\PoolProject.Data\\Data\\Infrastructure\\UnitOfWork.cs",
-              "RelativeToolTip": "PoolProject.Data\\Data\\Infrastructure\\UnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T20:19:15.911Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "dbcontext.cs",
-              "DocumentMoniker": "E:\\c#project\\PoolProject\\PoolProject.Data\\Data\\Context\\dbcontext.cs",
-              "RelativeDocumentMoniker": "PoolProject.Data\\Data\\Context\\dbcontext.cs",
-              "ToolTip": "E:\\c#project\\PoolProject\\PoolProject.Data\\Data\\Context\\dbcontext.cs",
-              "RelativeToolTip": "PoolProject.Data\\Data\\Context\\dbcontext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T20:19:15.268Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SearchQuary.cs",
-              "DocumentMoniker": "E:\\c#project\\PoolProject\\PoolProject.Data\\SearchQuary.cs",
-              "RelativeDocumentMoniker": "PoolProject.Data\\SearchQuary.cs",
-              "ToolTip": "E:\\c#project\\PoolProject\\PoolProject.Data\\SearchQuary.cs",
-              "RelativeToolTip": "PoolProject.Data\\SearchQuary.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T20:18:52.948Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BaseController.cs",
-              "DocumentMoniker": "E:\\c#project\\PoolProject\\PoolProject\\Controllers\\BaseController.cs",
-              "RelativeDocumentMoniker": "PoolProject\\Controllers\\BaseController.cs",
-              "ToolTip": "E:\\c#project\\PoolProject\\PoolProject\\Controllers\\BaseController.cs",
-              "RelativeToolTip": "PoolProject\\Controllers\\BaseController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T20:18:28.603Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BaseService.cs",
-              "DocumentMoniker": "E:\\c#project\\PoolProject\\PoolProject.Data\\Data\\BaseService.cs",
-              "RelativeDocumentMoniker": "PoolProject.Data\\Data\\BaseService.cs",
-              "ToolTip": "E:\\c#project\\PoolProject\\PoolProject.Data\\Data\\BaseService.cs",
-              "RelativeToolTip": "PoolProject.Data\\Data\\BaseService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAB6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T20:18:21.518Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "E:\\c#project\\PoolProject\\PoolProject.Data\\Data\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "PoolProject.Data\\Data\\BaseRepository.cs",
-              "ToolTip": "E:\\c#project\\PoolProject\\PoolProject.Data\\Data\\BaseRepository.cs",
-              "RelativeToolTip": "PoolProject.Data\\Data\\BaseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T20:17:56.636Z"
             }
           ]
         }
