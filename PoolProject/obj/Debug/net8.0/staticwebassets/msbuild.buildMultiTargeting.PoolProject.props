@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PoolProject.props" />
+</Project>

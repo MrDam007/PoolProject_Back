@@ -1,0 +1,14 @@
+E:\c#project\PoolProject\PoolProject.InterFace\bin\Debug\net8.0\PoolProject.InterFace.deps.json
+E:\c#project\PoolProject\PoolProject.InterFace\bin\Debug\net8.0\PoolProject.InterFace.runtimeconfig.json
+E:\c#project\PoolProject\PoolProject.InterFace\bin\Debug\net8.0\PoolProject.InterFace.dll
+E:\c#project\PoolProject\PoolProject.InterFace\bin\Debug\net8.0\PoolProject.InterFace.pdb
+E:\c#project\PoolProject\PoolProject.InterFace\obj\Debug\net8.0\PoolProject.InterFace.csproj.AssemblyReference.cache
+E:\c#project\PoolProject\PoolProject.InterFace\obj\Debug\net8.0\PoolProject.InterFace.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#project\PoolProject\PoolProject.InterFace\obj\Debug\net8.0\PoolProject.InterFace.AssemblyInfoInputs.cache
+E:\c#project\PoolProject\PoolProject.InterFace\obj\Debug\net8.0\PoolProject.InterFace.AssemblyInfo.cs
+E:\c#project\PoolProject\PoolProject.InterFace\obj\Debug\net8.0\PoolProject.InterFace.csproj.CoreCompileInputs.cache
+E:\c#project\PoolProject\PoolProject.InterFace\obj\Debug\net8.0\PoolProject.InterFace.dll
+E:\c#project\PoolProject\PoolProject.InterFace\obj\Debug\net8.0\refint\PoolProject.InterFace.dll
+E:\c#project\PoolProject\PoolProject.InterFace\obj\Debug\net8.0\PoolProject.InterFace.pdb
+E:\c#project\PoolProject\PoolProject.InterFace\obj\Debug\net8.0\PoolProject.InterFace.genruntimeconfig.cache
+E:\c#project\PoolProject\PoolProject.InterFace\obj\Debug\net8.0\ref\PoolProject.InterFace.dll
