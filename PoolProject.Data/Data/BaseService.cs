@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc.RazorPages;
 using Newtonsoft.Json;
 using PoolProject.Domain;
-using PoolProject.InterFace.InterFace;
+using PoolProject.InterFace.InterFace.Base;
 using System;
 using System.Collections.Generic;
 using System.Linq;

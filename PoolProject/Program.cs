@@ -5,7 +5,7 @@ using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using PoolProject.Data.Data.Context;
 using PoolProject.Data.Data.Infrastructure;
-using PoolProject.InterFace.InterFace;
+using PoolProject.InterFace.InterFace.Base;
 using System.Text;
 var builder = WebApplication.CreateBuilder(args);
 

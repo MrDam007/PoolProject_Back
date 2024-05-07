@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PoolProject.InterFace.InterFace;
+namespace PoolProject.InterFace.InterFace.Base;
 public class PagedListResult<TEntity>
 {
     public bool HasNext { get; set; }

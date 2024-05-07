@@ -9,12 +9,12 @@ using System.Reflection;
 using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
-using PoolProject.InterFace.InterFace;
 using PoolProject.InterFace.Data;
 using PoolProject.Domain;
+using PoolProject.InterFace.InterFace.Base;
 
 namespace PoolProject.Data.Data;
-    public class BaseRepository<T> : IBaseRepository<T>, IDisposable where T : BaseModel
+public class BaseRepository<T> : IBaseRepository<T>, IDisposable where T : BaseModel
     {
         private readonly IUnitOfWork _unitOfWork;
 

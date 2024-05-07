@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PoolProject.InterFace.InterFace;
+namespace PoolProject.InterFace.InterFace.Base;S
 public interface IBaseRepository<T> where T : class
 {
 

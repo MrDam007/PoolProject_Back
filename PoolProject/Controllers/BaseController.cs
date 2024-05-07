@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc;
-using PoolProject.InterFace.InterFace;
 using PoolProject.Domain;
+using PoolProject.InterFace.InterFace.Base;
 
 namespace PoolProject.Controllers
 {
