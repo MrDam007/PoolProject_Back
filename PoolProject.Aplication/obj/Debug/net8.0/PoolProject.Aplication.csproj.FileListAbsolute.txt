@@ -19,3 +19,4 @@ E:\c#project\PoolProject\PoolProject.Aplication\obj\Debug\net8.0\refint\PoolProj
 E:\c#project\PoolProject\PoolProject.Aplication\obj\Debug\net8.0\PoolProject.Aplication.pdb
 E:\c#project\PoolProject\PoolProject.Aplication\obj\Debug\net8.0\PoolProject.Aplication.genruntimeconfig.cache
 E:\c#project\PoolProject\PoolProject.Aplication\obj\Debug\net8.0\ref\PoolProject.Aplication.dll
+E:\c#project\PoolProject\PoolProject.Aplication\obj\Debug\net8.0\PoolProject.Aplication.sourcelink.json

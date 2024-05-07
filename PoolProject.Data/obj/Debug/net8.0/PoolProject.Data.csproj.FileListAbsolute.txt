@@ -17,3 +17,4 @@ E:\c#project\PoolProject\PoolProject.Data\obj\Debug\net8.0\refint\PoolProject.Da
 E:\c#project\PoolProject\PoolProject.Data\obj\Debug\net8.0\PoolProject.Data.pdb
 E:\c#project\PoolProject\PoolProject.Data\obj\Debug\net8.0\PoolProject.Data.genruntimeconfig.cache
 E:\c#project\PoolProject\PoolProject.Data\obj\Debug\net8.0\ref\PoolProject.Data.dll
+E:\c#project\PoolProject\PoolProject.Data\obj\Debug\net8.0\PoolProject.Data.sourcelink.json

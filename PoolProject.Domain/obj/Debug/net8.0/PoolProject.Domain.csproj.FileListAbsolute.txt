@@ -12,3 +12,4 @@ E:\c#project\PoolProject\PoolProject.Domain\obj\Debug\net8.0\refint\PoolProject.
 E:\c#project\PoolProject\PoolProject.Domain\obj\Debug\net8.0\PoolProject.Domain.pdb
 E:\c#project\PoolProject\PoolProject.Domain\obj\Debug\net8.0\PoolProject.Domain.genruntimeconfig.cache
 E:\c#project\PoolProject\PoolProject.Domain\obj\Debug\net8.0\ref\PoolProject.Domain.dll
+E:\c#project\PoolProject\PoolProject.Domain\obj\Debug\net8.0\PoolProject.Domain.sourcelink.json

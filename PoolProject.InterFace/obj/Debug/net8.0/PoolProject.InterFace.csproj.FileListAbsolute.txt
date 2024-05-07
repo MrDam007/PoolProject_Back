@@ -12,3 +12,4 @@ E:\c#project\PoolProject\PoolProject.InterFace\obj\Debug\net8.0\refint\PoolProje
 E:\c#project\PoolProject\PoolProject.InterFace\obj\Debug\net8.0\PoolProject.InterFace.pdb
 E:\c#project\PoolProject\PoolProject.InterFace\obj\Debug\net8.0\PoolProject.InterFace.genruntimeconfig.cache
 E:\c#project\PoolProject\PoolProject.InterFace\obj\Debug\net8.0\ref\PoolProject.InterFace.dll
+E:\c#project\PoolProject\PoolProject.InterFace\obj\Debug\net8.0\PoolProject.InterFace.sourcelink.json
