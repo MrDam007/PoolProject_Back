@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\c#project\\Pool Project\\PoolProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20E015CA-ED4C-44B9-BB64-19EED7A34979}|PoolProject\\PoolProject.csproj|e:\\c#project\\pool project\\poolproject\\poolproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20E015CA-ED4C-44B9-BB64-19EED7A34979}|PoolProject\\PoolProject.csproj|solutionrelative:poolproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC7A0096-B728-4920-B164-571664512ADA}|PoolProject.Aplication\\PoolProject.Aplication.csproj|e:\\c#project\\pool project\\poolproject\\poolproject.aplication\\poolproject.aplication.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EC7A0096-B728-4920-B164-571664512ADA}|PoolProject.Aplication\\PoolProject.Aplication.csproj|solutionrelative:poolproject.aplication\\poolproject.aplication.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20E015CA-ED4C-44B9-BB64-19EED7A34979}|PoolProject\\PoolProject.csproj|E:\\c#project\\Pool Project\\PoolProject\\poolproject\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20E015CA-ED4C-44B9-BB64-19EED7A34979}|PoolProject\\PoolProject.csproj|solutionrelative:poolproject\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20E015CA-ED4C-44B9-BB64-19EED7A34979}|PoolProject\\PoolProject.csproj|e:\\c#project\\pool project\\poolproject\\poolproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E015CA-ED4C-44B9-BB64-19EED7A34979}|PoolProject\\PoolProject.csproj|solutionrelative:poolproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PoolProject.Aplication",
+              "DocumentMoniker": "E:\\c#project\\Pool Project\\PoolProject\\PoolProject.Aplication\\PoolProject.Aplication.csproj",
+              "RelativeDocumentMoniker": "PoolProject.Aplication\\PoolProject.Aplication.csproj",
+              "ToolTip": "E:\\c#project\\Pool Project\\PoolProject\\PoolProject.Aplication\\PoolProject.Aplication.csproj",
+              "RelativeToolTip": "PoolProject.Aplication\\PoolProject.Aplication.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T11:04:54.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\c#project\\Pool Project\\PoolProject\\PoolProject\\Program.cs",
               "RelativeDocumentMoniker": "PoolProject\\Program.cs",
@@ -40,18 +53,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T06:57:21.085Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BaseController.cs",
-              "DocumentMoniker": "E:\\c#project\\Pool Project\\PoolProject\\PoolProject\\Controllers\\BaseController.cs",
-              "RelativeDocumentMoniker": "PoolProject\\Controllers\\BaseController.cs",
-              "ToolTip": "E:\\c#project\\Pool Project\\PoolProject\\PoolProject\\Controllers\\BaseController.cs",
-              "RelativeToolTip": "PoolProject\\Controllers\\BaseController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T06:57:01.644Z"
             }
           ]
         }
