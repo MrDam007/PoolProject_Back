@@ -13,8 +13,8 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.4",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.4",
           "Newtonsoft.Json": "13.0.3",
-          "PoolProject.Data": "1.0.0",
-          "PoolProject.Domain": "1.0.0"
+          "PoolProject.Data": "1.0.0.0",
+          "PoolProject.Domain": "1.0.0.0"
         },
         "runtime": {
           "PoolProject.Aplication.dll": {}
@@ -922,39 +922,28 @@
           }
         }
       },
-      "PoolProject.Data/1.0.0": {
-        "dependencies": {
-          "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.4",
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.4",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.4",
-          "Newtonsoft.Json": "13.0.3",
-          "PoolProject.Domain": "1.0.0",
-          "PoolProject.InterFace": "1.0.0"
-        },
+      "PoolProject.Data/1.0.0.0": {
         "runtime": {
-          "PoolProject.Data.dll": {}
+          "PoolProject.Data.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
-      "PoolProject.Domain/1.0.0": {
-        "dependencies": {
-          "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.4",
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.4",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.4",
-          "Newtonsoft.Json": "13.0.3"
-        },
+      "PoolProject.Domain/1.0.0.0": {
         "runtime": {
-          "PoolProject.Domain.dll": {}
+          "PoolProject.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
-      "PoolProject.InterFace/1.0.0": {
-        "dependencies": {
-          "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.4",
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.4",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.4",
-          "Newtonsoft.Json": "13.0.3"
-        },
+      "PoolProject.InterFace/1.0.0.0": {
         "runtime": {
-          "PoolProject.InterFace.dll": {}
+          "PoolProject.InterFace.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
@@ -1511,18 +1500,18 @@
       "path": "system.windows.extensions/6.0.0",
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
-    "PoolProject.Data/1.0.0": {
-      "type": "project",
+    "PoolProject.Data/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "PoolProject.Domain/1.0.0": {
-      "type": "project",
+    "PoolProject.Domain/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "PoolProject.InterFace/1.0.0": {
-      "type": "project",
+    "PoolProject.InterFace/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

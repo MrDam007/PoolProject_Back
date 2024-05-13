@@ -1,22 +1,19 @@
-E:\c#project\PoolProject\PoolProject.Aplication\bin\Debug\net8.0\PoolProject.Aplication.deps.json
-E:\c#project\PoolProject\PoolProject.Aplication\bin\Debug\net8.0\PoolProject.Aplication.runtimeconfig.json
-E:\c#project\PoolProject\PoolProject.Aplication\bin\Debug\net8.0\PoolProject.Aplication.dll
-E:\c#project\PoolProject\PoolProject.Aplication\bin\Debug\net8.0\PoolProject.Aplication.pdb
-E:\c#project\PoolProject\PoolProject.Aplication\bin\Debug\net8.0\PoolProject.Data.dll
-E:\c#project\PoolProject\PoolProject.Aplication\bin\Debug\net8.0\PoolProject.Domain.dll
-E:\c#project\PoolProject\PoolProject.Aplication\bin\Debug\net8.0\PoolProject.InterFace.dll
-E:\c#project\PoolProject\PoolProject.Aplication\bin\Debug\net8.0\PoolProject.Data.pdb
-E:\c#project\PoolProject\PoolProject.Aplication\bin\Debug\net8.0\PoolProject.Domain.pdb
-E:\c#project\PoolProject\PoolProject.Aplication\bin\Debug\net8.0\PoolProject.InterFace.pdb
-E:\c#project\PoolProject\PoolProject.Aplication\obj\Debug\net8.0\PoolProject.Aplication.csproj.AssemblyReference.cache
-E:\c#project\PoolProject\PoolProject.Aplication\obj\Debug\net8.0\PoolProject.Aplication.GeneratedMSBuildEditorConfig.editorconfig
-E:\c#project\PoolProject\PoolProject.Aplication\obj\Debug\net8.0\PoolProject.Aplication.AssemblyInfoInputs.cache
-E:\c#project\PoolProject\PoolProject.Aplication\obj\Debug\net8.0\PoolProject.Aplication.AssemblyInfo.cs
-E:\c#project\PoolProject\PoolProject.Aplication\obj\Debug\net8.0\PoolProject.Aplication.csproj.CoreCompileInputs.cache
-E:\c#project\PoolProject\PoolProject.Aplication\obj\Debug\net8.0\PoolProj.2C38E7AB.Up2Date
-E:\c#project\PoolProject\PoolProject.Aplication\obj\Debug\net8.0\PoolProject.Aplication.dll
-E:\c#project\PoolProject\PoolProject.Aplication\obj\Debug\net8.0\refint\PoolProject.Aplication.dll
-E:\c#project\PoolProject\PoolProject.Aplication\obj\Debug\net8.0\PoolProject.Aplication.pdb
-E:\c#project\PoolProject\PoolProject.Aplication\obj\Debug\net8.0\PoolProject.Aplication.genruntimeconfig.cache
-E:\c#project\PoolProject\PoolProject.Aplication\obj\Debug\net8.0\ref\PoolProject.Aplication.dll
-E:\c#project\PoolProject\PoolProject.Aplication\obj\Debug\net8.0\PoolProject.Aplication.sourcelink.json
+E:\c#project\Pool Project\PoolProject\PoolProject.Aplication\bin\Debug\net8.0\PoolProject.Aplication.deps.json
+E:\c#project\Pool Project\PoolProject\PoolProject.Aplication\bin\Debug\net8.0\PoolProject.Aplication.runtimeconfig.json
+E:\c#project\Pool Project\PoolProject\PoolProject.Aplication\bin\Debug\net8.0\PoolProject.Aplication.dll
+E:\c#project\Pool Project\PoolProject\PoolProject.Aplication\bin\Debug\net8.0\PoolProject.Aplication.pdb
+E:\c#project\Pool Project\PoolProject\PoolProject.Aplication\bin\Debug\net8.0\PoolProject.Data.dll
+E:\c#project\Pool Project\PoolProject\PoolProject.Aplication\bin\Debug\net8.0\PoolProject.Domain.dll
+E:\c#project\Pool Project\PoolProject\PoolProject.Aplication\bin\Debug\net8.0\PoolProject.InterFace.dll
+E:\c#project\Pool Project\PoolProject\PoolProject.Aplication\obj\Debug\net8.0\PoolProject.Aplication.csproj.AssemblyReference.cache
+E:\c#project\Pool Project\PoolProject\PoolProject.Aplication\obj\Debug\net8.0\PoolProject.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#project\Pool Project\PoolProject\PoolProject.Aplication\obj\Debug\net8.0\PoolProject.Aplication.AssemblyInfoInputs.cache
+E:\c#project\Pool Project\PoolProject\PoolProject.Aplication\obj\Debug\net8.0\PoolProject.Aplication.AssemblyInfo.cs
+E:\c#project\Pool Project\PoolProject\PoolProject.Aplication\obj\Debug\net8.0\PoolProject.Aplication.csproj.CoreCompileInputs.cache
+E:\c#project\Pool Project\PoolProject\PoolProject.Aplication\obj\Debug\net8.0\PoolProject.Aplication.sourcelink.json
+E:\c#project\Pool Project\PoolProject\PoolProject.Aplication\obj\Debug\net8.0\PoolProj.2C38E7AB.Up2Date
+E:\c#project\Pool Project\PoolProject\PoolProject.Aplication\obj\Debug\net8.0\PoolProject.Aplication.dll
+E:\c#project\Pool Project\PoolProject\PoolProject.Aplication\obj\Debug\net8.0\refint\PoolProject.Aplication.dll
+E:\c#project\Pool Project\PoolProject\PoolProject.Aplication\obj\Debug\net8.0\PoolProject.Aplication.pdb
+E:\c#project\Pool Project\PoolProject\PoolProject.Aplication\obj\Debug\net8.0\PoolProject.Aplication.genruntimeconfig.cache
+E:\c#project\Pool Project\PoolProject\PoolProject.Aplication\obj\Debug\net8.0\ref\PoolProject.Aplication.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\c#project\\PoolProject\\PoolProject.Domain\\PoolProject.Domain.csproj": {}
+    "E:\\c#project\\Pool Project\\PoolProject\\PoolProject.Domain\\PoolProject.Domain.csproj": {}
   },
   "projects": {
-    "E:\\c#project\\PoolProject\\PoolProject.Domain\\PoolProject.Domain.csproj": {
+    "E:\\c#project\\Pool Project\\PoolProject\\PoolProject.Domain\\PoolProject.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\c#project\\PoolProject\\PoolProject.Domain\\PoolProject.Domain.csproj",
+        "projectUniqueName": "E:\\c#project\\Pool Project\\PoolProject\\PoolProject.Domain\\PoolProject.Domain.csproj",
         "projectName": "PoolProject.Domain",
-        "projectPath": "E:\\c#project\\PoolProject\\PoolProject.Domain\\PoolProject.Domain.csproj",
+        "projectPath": "E:\\c#project\\Pool Project\\PoolProject\\PoolProject.Domain\\PoolProject.Domain.csproj",
         "packagesPath": "C:\\Users\\SAM-Tech\\.nuget\\packages\\",
-        "outputPath": "E:\\c#project\\PoolProject\\PoolProject.Domain\\obj\\",
+        "outputPath": "E:\\c#project\\Pool Project\\PoolProject\\PoolProject.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SAM-Tech\\AppData\\Roaming\\NuGet\\NuGet.Config",

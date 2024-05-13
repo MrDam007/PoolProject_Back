@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D8GNf7LaE4StF8cez6Y4HFWVyB+0tsQyelNHJI4kR/n7pTwdOf1k5b1sr1AyqvjaHGX+6OTAN+ff1m9+iSBExw==",
+  "dgSpecHash": "18K/fvYV8k/Ik693QLw1uU3lsu+sT38h83ELgoqsERwqhrbT1Mu1bmyCval0T4unA9pMCbAsNHhCD8yMNz8tAQ==",
   "success": true,
-  "projectFilePath": "E:\\c#project\\PoolProject\\PoolProject.Aplication\\PoolProject.Aplication.csproj",
+  "projectFilePath": "E:\\c#project\\Pool Project\\PoolProject\\PoolProject.Aplication\\PoolProject.Aplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SAM-Tech\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\SAM-Tech\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

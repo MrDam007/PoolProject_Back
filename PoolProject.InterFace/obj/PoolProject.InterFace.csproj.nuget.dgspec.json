@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\c#project\\PoolProject\\PoolProject.InterFace\\PoolProject.InterFace.csproj": {}
+    "E:\\c#project\\Pool Project\\PoolProject\\PoolProject.InterFace\\PoolProject.InterFace.csproj": {}
   },
   "projects": {
-    "E:\\c#project\\PoolProject\\PoolProject.InterFace\\PoolProject.InterFace.csproj": {
+    "E:\\c#project\\Pool Project\\PoolProject\\PoolProject.InterFace\\PoolProject.InterFace.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\c#project\\PoolProject\\PoolProject.InterFace\\PoolProject.InterFace.csproj",
+        "projectUniqueName": "E:\\c#project\\Pool Project\\PoolProject\\PoolProject.InterFace\\PoolProject.InterFace.csproj",
         "projectName": "PoolProject.InterFace",
-        "projectPath": "E:\\c#project\\PoolProject\\PoolProject.InterFace\\PoolProject.InterFace.csproj",
+        "projectPath": "E:\\c#project\\Pool Project\\PoolProject\\PoolProject.InterFace\\PoolProject.InterFace.csproj",
         "packagesPath": "C:\\Users\\SAM-Tech\\.nuget\\packages\\",
-        "outputPath": "E:\\c#project\\PoolProject\\PoolProject.InterFace\\obj\\",
+        "outputPath": "E:\\c#project\\Pool Project\\PoolProject\\PoolProject.InterFace\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SAM-Tech\\AppData\\Roaming\\NuGet\\NuGet.Config",
