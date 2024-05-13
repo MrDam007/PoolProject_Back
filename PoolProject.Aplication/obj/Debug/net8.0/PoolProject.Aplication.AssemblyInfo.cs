@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PoolProject.Aplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70bfb0a6a976c525eddade2a990c9aaa1dd3141b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8b1e7726f39d33f3f7e47cdaf27bb11687b97b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PoolProject.Aplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PoolProject.Aplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
