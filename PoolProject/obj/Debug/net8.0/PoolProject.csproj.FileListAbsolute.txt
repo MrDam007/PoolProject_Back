@@ -126,9 +126,6 @@ E:\c#project\PoolProject\PoolProject\bin\Debug\net8.0\PoolProject.Data.dll
 E:\c#project\PoolProject\PoolProject\bin\Debug\net8.0\PoolProject.Domain.dll
 E:\c#project\PoolProject\PoolProject\bin\Debug\net8.0\PoolProject.InterFace.dll
 E:\c#project\PoolProject\PoolProject\bin\Debug\net8.0\PoolProject.Aplication.pdb
-E:\c#project\PoolProject\PoolProject\bin\Debug\net8.0\PoolProject.Domain.pdb
-E:\c#project\PoolProject\PoolProject\bin\Debug\net8.0\PoolProject.InterFace.pdb
-E:\c#project\PoolProject\PoolProject\bin\Debug\net8.0\PoolProject.Data.pdb
 E:\c#project\PoolProject\PoolProject\obj\Debug\net8.0\PoolProject.csproj.AssemblyReference.cache
 E:\c#project\PoolProject\PoolProject\obj\Debug\net8.0\PoolProject.GeneratedMSBuildEditorConfig.editorconfig
 E:\c#project\PoolProject\PoolProject\obj\Debug\net8.0\PoolProject.AssemblyInfoInputs.cache

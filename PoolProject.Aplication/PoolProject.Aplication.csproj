@@ -18,12 +18,16 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PoolProject.Data\PoolProject.Data.csproj" />
-    <ProjectReference Include="..\PoolProject.Domain\PoolProject.Domain.csproj" />
+    <Folder Include="Services\" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Services\" />
+    <Reference Include="PoolProject.Data">
+      <HintPath>..\PoolProject\Dll\PoolProject.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="PoolProject.Domain">
+      <HintPath>..\PoolProject\Dll\PoolProject.Domain.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>

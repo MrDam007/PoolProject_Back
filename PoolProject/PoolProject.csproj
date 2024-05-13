@@ -20,8 +20,18 @@
 
   <ItemGroup>
     <ProjectReference Include="..\PoolProject.Aplication\PoolProject.Aplication.csproj" />
-    <ProjectReference Include="..\PoolProject.Domain\PoolProject.Domain.csproj" />
-    <ProjectReference Include="..\PoolProject.InterFace\PoolProject.InterFace.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="PoolProject.Data">
+      <HintPath>Dll\PoolProject.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="PoolProject.Domain">
+      <HintPath>Dll\PoolProject.Domain.dll</HintPath>
+    </Reference>
+    <Reference Include="PoolProject.InterFace">
+      <HintPath>Dll\PoolProject.InterFace.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
